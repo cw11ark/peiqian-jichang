@@ -1,4 +1,4 @@
-# 赔钱机场｜1.5 元/月 100G（2026-10-18 更新）
+# 赔钱机场｜1.5 元/月 100G（2026-10-19 更新）
 
 > **一句话评价：重度用户之选：0.1 倍节点额度翻 10 倍，最大单档 20TB**
 >
@@ -85,7 +85,7 @@
 <details>
 <summary>更多机场测评</summary>
 
-- [机场对比总览](https://github.com/REPLACE_OWNER/jichang-tuijian-2026)
-- [秒连云 测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)
-- [赛博云 测评](https://github.com/REPLACE_OWNER/saiboyun-jichang)
+- [机场对比总览](https://github.com/cw11ark/jichang-tuijian-2026)
+- [秒连云 测评](https://github.com/cw11ark/miaolianyun-jichang)
+- [赛博云 测评](https://github.com/cw11ark/saiboyun-jichang)
 </details>
