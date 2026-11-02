@@ -1,4 +1,4 @@
-# 赔钱机场｜1.5 元/月 100G（2026-10-28 更新）
+# 赔钱机场｜1.5 元/月 100G（2026-11-02 更新）
 
 > **一句话评价：重度用户之选：0.1 倍节点额度翻 10 倍，最大单档 20TB**
 >
@@ -77,6 +77,7 @@
 
 ## 更新
 
+- **2026-11-02** — 套餐与公告复核：无变化（重跑建仓入口 dry-run 通过，价格未动）。
 - **2026-10-18** — 套餐价格复核（官网接口一瓶盖 1.5 元不变），公告无新增。
 - **2026-10-17** — 83 个节点实测，26 个连通；0.1 倍节点 12 个。
 
@@ -85,8 +86,8 @@
 <details>
 <summary>更多机场测评</summary>
 
-- [机场对比总览](https://github.com/cw11ark/jichang-tuijian-2026)
-- [秒连云 测评](https://github.com/cw11ark/miaolianyun-jichang)
-- [赛博云 测评](https://github.com/cw11ark/saiboyun-jichang)
-- [贝贝云 测评](https://github.com/cw11ark/beibei-jichang)
+- [机场对比总览](https://github.com/REPLACE_OWNER/jichang-tuijian-2026)
+- [秒连云 测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)
+- [赛博云 测评](https://github.com/REPLACE_OWNER/saiboyun-jichang)
+- [贝贝云 测评](https://github.com/REPLACE_OWNER/beibei-jichang)
 </details>
